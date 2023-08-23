@@ -1,4 +1,4 @@
-# * [Musiti](https://musiti.pythonanywhere.com/) 
+# [Musiti](https://musiti.pythonanywhere.com/) 
 
 Convert your Basic SVG files to audio files!
 
@@ -21,7 +21,7 @@ Created for love by @gauranshg, INDIA
 So you have downloaded your audio files. Hurray!!
 Let's test them out. before you start diving into your world of oscilloscope.
 It is much better to test them out on your computer for any potential errors.
-Download virtual oscillocsope from * [Oscilloscop Music](https://oscilloscopemusic.com/software/oscilloscope/) 
+Download virtual oscillocsope from [Oscilloscop Music](https://oscilloscopemusic.com/software/oscilloscope/) 
 
 
 ## Authors

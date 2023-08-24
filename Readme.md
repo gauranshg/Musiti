@@ -9,6 +9,8 @@ Yup you read it right, convert images to audio files. So!! How does it work you 
 You can upload you own SVG images into the website and we will convert it to a stereo WAV file.
 The Stereo Wavfile can then be played on a vectoroscope.
 
+![Screenshot](working.png)
+
 ## About
 
 Musiti was first released on 12 September 2023 on musiti.pythonanywhere.com

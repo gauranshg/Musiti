@@ -1,0 +1,171 @@
+
+
+h2 {
+
+	position: relative;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: white;
+	font-size: 3vw;
+ 	text-align: center;
+}
+
+input{
+	display: none;
+}
+
+label {
+	margin: 20px;
+	border-radius: 0px;
+	
+	height: 60px;
+	width: 250px;
+
+	
+	
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transform: translateY(6vh);
+		
+}
+
+#photo {
+	
+	color: white;
+	
+	background-color: transparent;
+	outline: white solid 5px;
+	outline-offset: -5px;
+	
+	
+		
+}
+
+#submitl {
+	
+	color: black;
+	
+	background-color: lightblue;
+	
+	
+	
+	
+	
+		
+}
+
+
+
+nav {
+	
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+	z-index: 100;
+
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+li {
+	list-style: none;
+	margin-left: 20px;
+	
+	
+	
+	
+	
+}
+
+#head a {
+	margin: 20px;
+	text-decoration: none;
+	padding: 10px 30px;
+	color: white;
+	border-radius: 5px;
+	
+	font-size: 20px;
+	
+	
+	
+}
+
+
+
+
+
+
+#grad {
+	background: linear-gradient(to bottom, black,transparent);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 50%;
+	object-fit: cover;
+	z-index: 1;
+	display: inline-block;
+}
+
+img {
+	background: linear-gradient(to bottom, black,transparent);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	z-index: 0;
+	display: inline-block;
+}
+
+
+body {
+	overflow-x: hidden;
+	background: #212121;
+	min-height: :100vh;
+}
+
+header {
+
+	display: flex;
+
+}
+
+h1, h3 {
+
+	position: relative;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: white;
+	font-size: 1.5vw;
+ 	text-align: center;
+}
+
+h3 {
+	font-size: 1vw;
+}
+
+#Center {
+	position: absolute;
+	top: 20%;
+	width: 100%;
+	height: 50%;
+
+	justify-content: center;
+	align-content: center;
+	z-index: 2;
+
+}
+
+#firstrelease {
+	text-decoration-color: white;
+	color: white;
+}

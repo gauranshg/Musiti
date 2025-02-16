@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+    <title>Image Upload</title>
+</head>
+<body>
+
+<header>
+	<nav class="navigation">
+  <ul>
+    <li><a href="index.html"><span>Home</span></a></li>
+    <li><a href="documentation.html"><span>Documentaion</span></a></li>
+    <li><a href="about.html"><span>About</span></a></li>
+  </ul>
+</nav>
+</header>
+
+<div id="grad"></div>
+<img src="img.jpg">
+    <h2>Welcome to Musiti</h2>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" id="file" name="image">
+		<div>
+			<label id="photo" for="file">Choose a photo</label>
+			<label id="submitl" for="submit">Submit</label>
+		</div>
+        <input type="submit" id="submit" value="Upload">
+    </form>
+	
+</body>
+</html>
